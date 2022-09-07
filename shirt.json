@@ -1,12 +1,8 @@
 {
-  
-	"shirt" [
-  {
-		
-		"name": "celvinkelvin",
+"shirt" [{	"name": "celvinkelvin",
 		"desc": "denim",
 		"size":"L Xl XXl",
-  "price":"550"
+                "price":"550"
 	} 
 {
 		
