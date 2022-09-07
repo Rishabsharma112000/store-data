@@ -1,15 +1,6 @@
-{
-"shirt" [{	"name": "celvinkelvin",
-		"desc": "denim",
-		"size":"L Xl XXl",
-                "price":"550"
-	} 
-{
-		
-		"name": "swift",
-		"desc": "roundswift",
-		"size":"L Xl XXl",
-     "price":"590"
-	} 
-]
+{"shirt" : [{"name" : "Denim Shirt","Color":"Black,Blue,Red","Size":"L XL XXL","Price":"560"}
+            ,{"name" : "Swift-Shirt","Color":"Black,Grey,White,Red","Size":"L XL XXL","Price":"590"}
+            ,{"name" : "celvin kelvin","Color":"Black,White,Slade,Redish","Size":"L XL XXL","Price":"650"},
+           {"name" : "Polo","Color":"Black,Blue,Red","Size":"L XL XXL","Price":"700"}
+            ]
 }
